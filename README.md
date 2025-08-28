@@ -1,5 +1,5 @@
 # EISA
-<img src="eisa-logo.png" width="160" height="160" />
+<img src="eisa-logo.png" width="192" height="192" />
 
 International Conference / Symposium on <b>E</b>merging <b>I</b>nformation <b>S</b>ecurity and <b>A</b>pplication Website
 
